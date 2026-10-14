@@ -1,5 +1,5 @@
-peso = float(input("Informe o seu peso: "))
-altura = float(input("Informe a sua altura: "))
+peso = float(input("Digite o seu peso: "))
+altura = float(input("Digite a sua altura: "))
 
 #calculo de IMC:
 
